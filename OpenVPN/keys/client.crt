@@ -1,0 +1,95 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1966 (0x7ae)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=CA, L=Stanford, O=Stanford University, OU=HighWire Press, CN=HighWire OpenVPN certificate authority/emailAddress=sysadmin@highwire.stanford.edu
+        Validity
+            Not Before: Feb 20 05:20:22 2024 GMT
+            Not After : Feb 17 05:20:22 2034 GMT
+        Subject: C=IN, ST=NOIDA, O=HighWire Press, OU=software, CN=VishalSingh
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:dc:4a:84:f8:73:60:b6:f0:0e:96:84:25:b6:ff:
+                    39:67:b1:6d:5f:b4:c8:2e:52:1b:92:1e:8d:a3:3e:
+                    73:b2:01:d8:1e:96:d8:84:a7:d6:aa:02:c7:1f:eb:
+                    f7:54:43:a7:af:cc:30:11:9a:09:3a:6c:d5:00:64:
+                    e5:6f:5a:0d:ef:e4:30:63:de:35:13:5c:cd:04:33:
+                    1d:9e:cd:25:c5:86:b5:17:e1:4d:fb:4f:7d:a7:b9:
+                    b7:28:2a:b7:94:98:fc:e0:a4:c8:a8:a7:31:57:b5:
+                    d7:62:bd:e2:52:7a:22:14:dd:45:82:ef:e2:07:8f:
+                    7b:4b:a9:72:79:37:26:5d:f1:33:11:90:f3:b2:7b:
+                    ea:94:4f:12:3e:4f:32:5a:b4:8b:18:8b:13:c6:90:
+                    4a:16:21:1d:8d:1e:03:a2:66:9d:38:09:95:f1:f2:
+                    60:ba:cb:18:fc:ff:f6:7b:16:9a:77:86:f6:02:17:
+                    64:17:c7:d9:fd:2e:f4:d9:7a:18:41:81:50:d4:8b:
+                    c9:ba:8f:71:b8:2e:6b:16:dc:1b:3a:e5:d2:b3:52:
+                    98:d8:35:f1:b5:dd:d3:53:a8:db:3c:b5:d6:89:f5:
+                    df:0d:df:a6:75:97:8e:e8:c7:63:b2:7b:13:e3:95:
+                    70:15:3c:7b:69:7f:b0:1c:b5:24:9b:57:1b:68:01:
+                    b8:f9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                EE:47:09:89:47:27:76:6D:63:2E:D0:2E:40:2C:8A:EA:AF:EB:C6:15
+            X509v3 Authority Key Identifier: 
+                keyid:D1:EA:09:D2:69:BD:BF:C5:1B:03:C9:EC:9F:DB:AE:D2:F7:47:F0:7D
+                DirName:/C=US/ST=CA/L=Stanford/O=Stanford University/OU=HighWire Press/CN=HighWire OpenVPN certificate authority/emailAddress=sysadmin@highwire.stanford.edu
+                serial:D7:45:B5:AC:AF:C4:67:E2
+
+            X509v3 Subject Alternative Name: 
+                email:vsingh@highwirepress.com
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+         52:08:a3:0f:b3:1b:5c:70:e0:4d:65:79:9a:fa:9a:bf:dc:e9:
+         30:72:5a:77:da:6d:a5:bb:15:c4:4f:31:3e:cb:cb:8e:40:4e:
+         df:c5:e9:55:a9:ac:6c:ef:70:ab:1f:2d:9a:c7:eb:77:0a:4e:
+         73:55:6d:46:8a:1f:fd:e2:92:26:5f:fa:93:4c:96:ed:96:a8:
+         fc:7b:46:8d:16:66:8c:e7:f2:d0:1c:7a:be:ca:8f:02:c9:bc:
+         33:60:a6:c2:05:94:d5:9f:87:67:03:68:12:19:56:e7:6a:8a:
+         9b:6c:ce:79:78:ad:e3:0d:f5:ec:e6:35:ad:07:fb:df:8d:2f:
+         18:3d:3e:3f:37:f7:6d:8f:bc:a3:e7:ab:45:cc:c5:e3:e5:ba:
+         9a:dd:a1:49:58:97:38:bf:b4:e4:be:53:59:fe:bc:98:4c:d0:
+         9e:d6:45:d3:e5:c5:66:f6:71:07:10:3f:c6:2b:16:f0:10:d6:
+         a5:f5:68:ce:f3:55:de:b7:75:78:9e:6a:0c:14:4f:27:cf:52:
+         8d:e8:f7:52:bc:0f:0e:5a:37:9b:9e:d0:a9:dc:5b:9f:18:71:
+         e5:04:56:13:6d:1a:b5:9f:ad:4d:de:d8:5e:ad:13:3d:18:86:
+         fc:04:ca:7c:95:4a:2c:bb:d9:a8:f4:fd:8c:59:0e:48:5b:4b:
+         34:7f:57:e4
+-----BEGIN CERTIFICATE-----
+MIIFEzCCA/ugAwIBAgICB64wDQYJKoZIhvcNAQEFBQAwgcQxCzAJBgNVBAYTAlVT
+MQswCQYDVQQIEwJDQTERMA8GA1UEBxMIU3RhbmZvcmQxHDAaBgNVBAoTE1N0YW5m
+b3JkIFVuaXZlcnNpdHkxFzAVBgNVBAsTDkhpZ2hXaXJlIFByZXNzMS8wLQYDVQQD
+EyZIaWdoV2lyZSBPcGVuVlBOIGNlcnRpZmljYXRlIGF1dGhvcml0eTEtMCsGCSqG
+SIb3DQEJARYec3lzYWRtaW5AaGlnaHdpcmUuc3RhbmZvcmQuZWR1MB4XDTI0MDIy
+MDA1MjAyMloXDTM0MDIxNzA1MjAyMlowXzELMAkGA1UEBhMCSU4xDjAMBgNVBAgT
+BU5PSURBMRcwFQYDVQQKEw5IaWdoV2lyZSBQcmVzczERMA8GA1UECxMIc29mdHdh
+cmUxFDASBgNVBAMTC1Zpc2hhbFNpbmdoMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEA3EqE+HNgtvAOloQltv85Z7FtX7TILlIbkh6Noz5zsgHYHpbYhKfW
+qgLHH+v3VEOnr8wwEZoJOmzVAGTlb1oN7+QwY941E1zNBDMdns0lxYa1F+FN+099
+p7m3KCq3lJj84KTIqKcxV7XXYr3iUnoiFN1Fgu/iB497S6lyeTcmXfEzEZDzsnvq
+lE8SPk8yWrSLGIsTxpBKFiEdjR4DomadOAmV8fJgussY/P/2exaad4b2AhdkF8fZ
+/S702XoYQYFQ1IvJuo9xuC5rFtwbOuXSs1KY2DXxtd3TU6jbPLXWifXfDd+mdZeO
+6MdjsnsT45VwFTx7aX+wHLUkm1cbaAG4+QIDAQABo4IBcTCCAW0wCQYDVR0TBAIw
+ADAdBgNVHQ4EFgQU7kcJiUcndm1jLtAuQCyK6q/rxhUwgfkGA1UdIwSB8TCB7oAU
+0eoJ0mm9v8UbA8nsn9uu0vdH8H2hgcqkgccwgcQxCzAJBgNVBAYTAlVTMQswCQYD
+VQQIEwJDQTERMA8GA1UEBxMIU3RhbmZvcmQxHDAaBgNVBAoTE1N0YW5mb3JkIFVu
+aXZlcnNpdHkxFzAVBgNVBAsTDkhpZ2hXaXJlIFByZXNzMS8wLQYDVQQDEyZIaWdo
+V2lyZSBPcGVuVlBOIGNlcnRpZmljYXRlIGF1dGhvcml0eTEtMCsGCSqGSIb3DQEJ
+ARYec3lzYWRtaW5AaGlnaHdpcmUuc3RhbmZvcmQuZWR1ggkA10W1rK/EZ+IwIwYD
+VR0RBBwwGoEYdnNpbmdoQGhpZ2h3aXJlcHJlc3MuY29tMBMGA1UdJQQMMAoGCCsG
+AQUFBwMCMAsGA1UdDwQEAwIHgDANBgkqhkiG9w0BAQUFAAOCAQEAUgijD7MbXHDg
+TWV5mvqav9zpMHJad9ptpbsVxE8xPsvLjkBO38XpVamsbO9wqx8tmsfrdwpOc1Vt
+Roof/eKSJl/6k0yW7Zao/HtGjRZmjOfy0Bx6vsqPAsm8M2CmwgWU1Z+HZwNoEhlW
+52qKm2zOeXit4w317OY1rQf7340vGD0+Pzf3bY+8o+erRczF4+W6mt2hSViXOL+0
+5L5TWf68mEzQntZF0+XFZvZxBxA/xisW8BDWpfVozvNV3rd1eJ5qDBRPJ89Sjej3
+UrwPDlo3m57Qqdxbnxhx5QRWE20atZ+tTd7YXq0TPRiG/ATKfJVKLLvZqPT9jFkO
+SFtLNH9X5A==
+-----END CERTIFICATE-----
